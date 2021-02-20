@@ -1,0 +1,1 @@
+INSERT INTO Car(make, model, year) VALUES ('Ford', 'F150', 2020);
